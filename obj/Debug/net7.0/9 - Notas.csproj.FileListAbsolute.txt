@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\9 - Notas\bin\Debug\net7.0\9 - Notas.exe
+C:\Users\plaud\Desktop\9 - Notas\bin\Debug\net7.0\9 - Notas.deps.json
+C:\Users\plaud\Desktop\9 - Notas\bin\Debug\net7.0\9 - Notas.runtimeconfig.json
+C:\Users\plaud\Desktop\9 - Notas\bin\Debug\net7.0\9 - Notas.dll
+C:\Users\plaud\Desktop\9 - Notas\bin\Debug\net7.0\9 - Notas.pdb
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.AssemblyInfo.cs
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.dll
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\refint\9 - Notas.dll
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.pdb
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\9 - Notas.genruntimeconfig.cache
+C:\Users\plaud\Desktop\9 - Notas\obj\Debug\net7.0\ref\9 - Notas.dll
